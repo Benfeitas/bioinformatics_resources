@@ -115,3 +115,14 @@ You can either download pipelines on your computer or on `rackham`, make an arch
 # extract the pipeline. Also remember to extract the containers you uploaded.
 > tar xvzf nf-core-rnaseq-3.0.tar.gz
 ```
+
+Move the singularity images to a common dir in the project, to be re-used
+```bash
+cd /castor/project/proj/nobackup/tools/
+mv /castor/project/proj/nobackup/tools/singularity-images .
+```
+
+Set a common var pointing to this dir
+```bash
+export $NXF_SINGULARITY_CACHEDIR=/castor/project/proj/nobackup/tools/singularity-images/
+```
