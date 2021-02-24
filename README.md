@@ -38,15 +38,15 @@ The following is a list of resources that you may explore. These will only assis
 	Know R? [Go for R markdown](https://nbis-reproducible-research.readthedocs.io/en/latest/rmarkdown/)
 	Know Python? [Go for Jupyter](https://nbis-reproducible-research.readthedocs.io/en/latest/jupyter/)
 
-**3. Learn about working with Uppmax**
-[First login to Uppmax](https://www.uppmax.uu.se/support/user-guides/guide--first-login-to-uppmax/)
-[Learn to submit jobs in Uppmax](https://www.uppmax.uu.se/support/user-guides/slurm-user-guide/)
-[More details](https://www.uppmax.uu.se/digitalAssets/560/c_560271-l_1-k_intro_to_linux_and_uppmax_2019_summer.pdf) 
+**3. Learn about working with Uppmax**  
+- [First login to Uppmax](https://www.uppmax.uu.se/support/user-guides/guide--first-login-to-uppmax/)
+- [Learn to submit jobs in Uppmax](https://www.uppmax.uu.se/support/user-guides/slurm-user-guide/)
+- [More details](https://www.uppmax.uu.se/digitalAssets/560/c_560271-l_1-k_intro_to_linux_and_uppmax_2019_summer.pdf) 
 
-**4. Explore more advanced courses**
-[Introduction to bioinformatics using NGS data](https://nbisweden.github.io/NGScourse/1710/schedule)
-R programming ([RaukR](https://nbisweden.github.io/RaukR-2019/))
-[Python programming](https://nbisweden.github.io/workshop-python/ht19/topics)
+**4. Explore more advanced courses**  
+- [Introduction to bioinformatics using NGS data](https://nbisweden.github.io/NGScourse/1710/schedule)  
+- R programming ([RaukR](https://nbisweden.github.io/RaukR-2019/))
+- [Python programming](https://nbisweden.github.io/workshop-python/ht19/topics)
 
 
 
