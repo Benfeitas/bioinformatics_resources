@@ -124,5 +124,6 @@ mv /castor/project/proj/nobackup/tools/singularity-images .
 
 Set a common var pointing to this dir
 ```bash
-export $NXF_SINGULARITY_CACHEDIR=/castor/project/proj/nobackup/tools/singularity-images/
+## add to .bashrc
+export NXF_SINGULARITY_CACHEDIR=/castor/project/proj/nobackup/tools/singularity-images/
 ```
