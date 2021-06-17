@@ -13,6 +13,7 @@ This is a short list of bioinformatics resources that can assist you in getting 
 - [Uppmax introduction and cheat sheet](uppmax_cheat.md)
 - [Bianca guide](bianca_guide.md)
 - [Conda cheat sheet](conda_cheat.md)
+- [Vagrant cheat sheet](vagrant.md)
 
 ## What do I need to know as a bioinformatician working with NGS and high-throughput data?
 
@@ -20,7 +21,7 @@ Regardless of your biological question, it is good to know:
 - Unix shell programming
 - R or Python
 - Git
-- Conda or another container
+- Conda, Vagrant, or another container
 - Working with Uppmax
 
 The following is a list of resources that you may explore. These will only assist you in getting started, and you should ideally attend these courses.
