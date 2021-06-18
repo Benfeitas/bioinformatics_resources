@@ -1,6 +1,6 @@
 #Uppmax intro and cheat sheet
 
-## To access uppmax you can use one of 2 ways**  
+## To access uppmax you can use one of 2 ways
 1. Terminal:  
 ```
 ssh YOUR_UPPMAX_ID@rackham.uppmax.uu.se
@@ -10,7 +10,7 @@ cd /crex/proj/path/to/your/folder/
 2. Installing Thinlinc in your computer. Instructions: https://www.uppmax.uu.se/support/user-guides/thinlinc-graphical-connection-guide/  
 This is the easy way to run RStudio in uppmax, and you click everywhere with mouse and keyboard as if you were in your own computer. If you login, then you can browse to the same folder with the path above. You probably will not need this since you are developing your code in your own computer, and use Uppmax to run the heavy jobs. I find it easier to use at start though.
 
-## To upload data**
+## To upload data
 To upload the data to uppmax, the easiest way is with Filezilla. You can also do it with terminal, but it is not as straightforward. Once you have installed Filezilla, please use the following:
 ```
 Host: rackham.uppmax.uu.se
@@ -65,18 +65,12 @@ interactive -A [snicPROJECT-ID] -n [node_number] -t [hours]
 ## Useful commands
 You can find some useful commands here: https://nbisweden.github.io/NGScourse/common/images/uppmax-cheat-sheet.png
 
-`jobinfo  -u [username]`                #show running jobs for you
-`jobstats -r [job_id]`                      #show job statistics. You can access job_id using jobinfo
-`jobstats -p -r [job_id]`        # show the job statistics as a plot. You can then see it using thinlinc 
-`scancel [job_id]`        # cancel a running or submitted job
-`uquota`            # total disk usage (Gb)
-`projinfo`            # total project hours used / allocated
-
-
-`screen -S [name]`        #create a screen named [name]
-`screen -ls`            #list all screens
-`screen -r [name]`        #attach to screen
-`screen -r -d [name]`        #to for attach to screen
+- `jobinfo  -u [username]`                #show running jobs for you  
+- `jobstats -r [job_id]`                      #show job statistics. You can access job_id using jobinfo  
+- `jobstats -p -r [job_id]`        # show the job statistics as a plot. You can then see it using thinlinc   
+- `scancel [job_id]`        # cancel a running or submitted job  
+- `uquota`            # total disk usage (Gb)  
+- `projinfo`            # total project hours used / allocated  
 
 ## Using screen
 To use screen:
@@ -85,3 +79,9 @@ To use screen:
 3. start jobs
 4. detach with `Ctrl + A + D` or `screen -r -d some_screen_name`
 5. kill with `Ctrl + A + x`
+
+- `screen -S [name]`        #create a screen named [name]  
+- `screen -ls`            #list all screens  
+- `screen -r [name]`        #attach to screen  
+- `screen -r -d [name]`        #to for attach to screen  
+
