@@ -72,16 +72,3 @@ You can find some useful commands here: https://nbisweden.github.io/NGScourse/co
 - `uquota`            # total disk usage (Gb)  
 - `projinfo`            # total project hours used / allocated  
 
-## Using screen
-To use screen:
-1. `ssh` to uppmax
-2. `screen -S some_screen_name`
-3. start jobs
-4. detach with `Ctrl + A + D` or `screen -r -d some_screen_name`
-5. kill with `Ctrl + A + x`
-
-- `screen -S [name]`        #create a screen named [name]  
-- `screen -ls`            #list all screens  
-- `screen -r [name]`        #attach to screen  
-- `screen -r -d [name]`        #to for attach to screen  
-

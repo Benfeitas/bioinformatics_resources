@@ -10,6 +10,7 @@ This is a short list of bioinformatics resources that can assist you in getting 
 - [Git cheat sheet](git_cheat.md)
 - [Bash aliases](bash_aliases.md)
 - [Linux cheat sheet](linux_cheat.md)
+	- [tmux / screen](screen_tmux.md)
 - [Uppmax introduction and cheat sheet](uppmax_cheat.md)
 - [Bianca guide](bianca_guide.md)
 - [Conda cheat sheet](conda_cheat.md)
