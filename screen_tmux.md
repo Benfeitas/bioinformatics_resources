@@ -3,6 +3,7 @@
 ## tmux
 - `tmux new -s [session_name]`		#start named session
 - `tmux a -t [session_name]`		#attach session
+- `CTRL+b` and `d` #detach session 
 - `tmux detach`		#detach session
 - `tmux ls`		#list sessions
 - `exit` or `CTRL+d`			#exit tmux
