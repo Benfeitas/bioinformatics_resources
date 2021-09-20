@@ -22,7 +22,7 @@ Regardless of your biological question, it is good to know:
 - Unix shell programming
 - R or Python
 - Git
-- Conda, Vagrant, or another container
+- Conda, Vagrant / Docker / Singularity or another container
 - Working with Uppmax
 
 The following is a list of resources that you may explore. These will only assist you in getting started, and you should ideally attend these courses.
