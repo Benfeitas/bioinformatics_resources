@@ -10,7 +10,8 @@
 - `CRTL+b+"`		#split screen horizontally
 - `CTRL+b+%`		#split screen vertically
 - `CTRL+b+o`		#toggle panes
-
+- `tmux kill-server` #kill all sessions
+- `tmux kill-session -a` #inside a tmux session, kill all others and keep the current one
 
 ## Using screen
 To use screen:
