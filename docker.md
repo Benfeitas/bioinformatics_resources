@@ -14,20 +14,22 @@ curl -L https://github.com/docker/machine/releases/download/v0.16.2/docker-machi
     sudo cp /tmp/docker-machine /usr/local/bin/docker-machine
 ```
 
-| commands 							| description 								|
-| --------------------------------- | ----------------------------------------- |
-| `docker-machine create default`   | create the "default" VM   				|
-| `docker-machine start`            | start the machine         				|
-| `docker-machine env`              | commands to setup an env  				|
-| `docker-machine stop`             | stop the container        				|
-| `docker-machine ip`               | show ip                   				|
-| `docker stop $(docker ps -a -q)`  | stop all containers       				|
-| `docker rm $(docker ps -a -q)`    | rm all containers         				|
-| `docker exec -it jupyter_container bash`  | start bash in the `jupyter_container`	if it is already running 	|
-| `docker system df`				| check space allocations					|
-| `docker system prune`				| clean dangling data						|
-| `docker system prune -a`			| clean dangling containers, images, etc	|
-| `docker volume rm $(docker volume ls -qf dangling=true)` | clean volumes		|
+| commands 													| description 								|
+| --------------------------------------------------------- | ----------------------------------------- |
+| `docker-machine create default`   						| create the "default" VM   				|
+| `docker-machine start`            						| start the machine         				|
+| `docker-machine env`              						| commands to setup an env  				|
+| `docker-machine stop`             						| stop the container        				|
+| `docker-machine ip`               						| show ip                   				|
+| `docker stop $(docker ps -a -q)`  						| stop all containers       				|
+| `docker rm $(docker ps -a -q)`    						| rm all containers         				|
+| `docker exec -it jupyter_container bash`  				| start bash in the `jupyter_container`	if already running 	|
+| `docker system df`										| check space allocations					|
+| `docker system prune`										| clean dangling data						|
+| `docker system prune -a`									| clean dangling containers, images, etc	|
+| `docker volume rm $(docker volume ls -qf dangling=true)`	| clean volumes								|
+| `docker tag imagename imagename:v1.0` 					| retag existing image 						|
+| `docker tag imagename:v1.0 imagename:v1.1`				| retag existing image 						|
 
 Quick reference:  
 - `docker build --rm . -t some_docker_name` #build docker environment
