@@ -22,33 +22,33 @@ Regardless of your biological question, it is good to know:
 - Unix shell programming
 - R or Python
 - Git
-- Conda, Vagrant, or another container
+- Conda, Vagrant / Docker / Singularity or another container
 - Working with Uppmax
 
 The following is a list of resources that you may explore. These will only assist you in getting started, and you should ideally attend these courses.
 
 **1. Take a short introductory course** 
-- Length: 2 days, doable in less. 
-- Pick one:
-      Don’t know programming? [Take Git, Bash, R](https://ab604.github.io/2018-10-09-umea/)
-      Want to know R? [Take Git, Bash, R](https://ab604.github.io/2018-10-09-umea/)
-      Want to know Python? [Git, Bash, Python](https://mochma.github.io/2019-10-14_KI/)
+- Length: 2 days, doable in less.  
+- Pick one:  
+      Don’t know programming? [Take Git, Bash, R](https://ab604.github.io/2018-10-09-umea/)  
+      Want to know R? [Take Git, Bash, R](https://ab604.github.io/2018-10-09-umea/)  
+      Want to know Python? [Git, Bash, Python](https://mochma.github.io/2019-10-14_KI/)  
 
-**2. Learn about [reproducible research](https://nbis-reproducible-research.readthedocs.io/en/latest/)**
-- **Must learn:** [Conda](https://nbis-reproducible-research.readthedocs.io/en/latest/conda/) and [Git](https://nbis-reproducible-research.readthedocs.io/en/latest/git/)
-- **Good to learn:** 
-	Know R? [Go for R markdown](https://nbis-reproducible-research.readthedocs.io/en/latest/rmarkdown/)
-	Know Python? [Go for Jupyter](https://nbis-reproducible-research.readthedocs.io/en/latest/jupyter/)
+**2. Learn about [reproducible research](https://nbis-reproducible-research.readthedocs.io/en/latest/)**  
+- **Must learn:** [Conda](https://nbis-reproducible-research.readthedocs.io/en/latest/conda/) and [Git](https://nbis-reproducible-research.readthedocs.io/en/latest/git/)  
+- **Good to learn:**   
+	Know R? [Go for R markdown](https://nbis-reproducible-research.readthedocs.io/en/latest/rmarkdown/)  
+	Know Python? [Go for Jupyter](https://nbis-reproducible-research.readthedocs.io/en/latest/jupyter/)  
 
-**3. Learn about working with Uppmax**  
-- [First login to Uppmax](https://www.uppmax.uu.se/support/user-guides/guide--first-login-to-uppmax/)
-- [Learn to submit jobs in Uppmax](https://www.uppmax.uu.se/support/user-guides/slurm-user-guide/)
-- [More details](https://www.uppmax.uu.se/digitalAssets/560/c_560271-l_1-k_intro_to_linux_and_uppmax_2019_summer.pdf) 
+**3. Learn about working with Uppmax**    
+- [First login to Uppmax](https://www.uppmax.uu.se/support/user-guides/guide--first-login-to-uppmax/)   
+- [Learn to submit jobs in Uppmax](https://www.uppmax.uu.se/support/user-guides/slurm-user-guide/)    
+- [More details](https://www.uppmax.uu.se/digitalAssets/560/c_560271-l_1-k_intro_to_linux_and_uppmax_2019_summer.pdf)    
 
-**4. Explore more advanced courses**  
-- [Introduction to bioinformatics using NGS data](https://nbisweden.github.io/NGScourse/1710/schedule)  
-- R programming ([RaukR](https://nbisweden.github.io/RaukR-2019/))
-- [Python programming](https://nbisweden.github.io/workshop-python/ht19/topics)
+**4. Explore more advanced courses**     
+- [Introduction to bioinformatics using NGS data](https://nbisweden.github.io/NGScourse/1710/schedule)      
+- R programming ([RaukR](https://nbisweden.github.io/RaukR-2019/))   
+- [Python programming](https://nbisweden.github.io/workshop-python/ht19/topics)    
 
 
 
