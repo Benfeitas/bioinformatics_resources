@@ -28,7 +28,6 @@ Regardless of your biological question, it is good to know:
 The following is a list of resources that you may explore. These will only assist you in getting started, and you should ideally attend these courses.
 
 **1. Take a short introductory course** 
-- Length: 2 days, doable in less.  
 - Pick one:  
       Don’t know programming? [Take Git, Bash, R](https://ab604.github.io/2018-10-09-umea/)  
       Want to know R? [Take Git, Bash, R](https://ab604.github.io/2018-10-09-umea/)  
@@ -44,6 +43,7 @@ The following is a list of resources that you may explore. These will only assis
 - [First login to Uppmax](https://www.uppmax.uu.se/support/user-guides/guide--first-login-to-uppmax/)   
 - [Learn to submit jobs in Uppmax](https://www.uppmax.uu.se/support/user-guides/slurm-user-guide/)    
 - [More details](https://www.uppmax.uu.se/digitalAssets/560/c_560271-l_1-k_intro_to_linux_and_uppmax_2019_summer.pdf)    
+- [Bianca user guide](https://www.uppmax.uu.se/support/user-guides/bianca-user-guide/)
 
 **4. Explore more advanced courses**     
 - [Introduction to bioinformatics using NGS data](https://nbisweden.github.io/NGScourse/1710/schedule)      
