@@ -1,6 +1,11 @@
 # Cheatsheet
 
 ## Folding
+" This is a fold {{{1
+some text and `code`
+" }}}1
+
+
 - z + o # opens a fold at the cursor.
 - z + Shift + o # opens all folds at the cursor.
 - z + c  # closes a fold at the cursor.
