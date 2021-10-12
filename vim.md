@@ -1,5 +1,6 @@
 # Cheatsheet
 
+## Folding
 - z + o # opens a fold at the cursor.
 - z + Shift + o # opens all folds at the cursor.
 - z + c  # closes a fold at the cursor.
