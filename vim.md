@@ -20,24 +20,24 @@ some text and `code`
 
 ## Working with Rmd
 To launch terminal:
-- <localleader> t  #launch terminal
-- <localleader> q #quit terminal
-- <localleader> c #run chunk
+- \<localleader\> t  #launch terminal
+- \<localleader\> q #quit terminal
+- \<localleader\> c #run chunk
 
 
 
 
 
-- <localleader>l <Plug>SlimeLineSend #send line
-- <localleader>p <Plug>SlimeParagraphSend #send paragraph
-- <localleader>s <Plug>SlimeRegionSend #send highlighted region
-- <localleader>c <Plug>SlimeSendCell #send cell
-- <localleader>w viw<Plug>SlimeRegionSend #send word
-- <localleader>a ggVG<Plug>SlimeRegionSend #send whole file
-- <localleader>t :call OpenTerminal()<CR>
-- <localleader>q :call CloseTerminal()<CR>
-- <localleader>h :call PrintHead()<CR>
-- <localleader>C :SlimeSend0 "\x03"<CR>
-- <localleader>f :call FindFunction()<CR><Plug>SlimeRegionSend<CR>
+- \<localleader\>l \<Plug\>SlimeLineSend #send line
+- \<localleader\>p \<Plug\>SlimeParagraphSend #send paragraph
+- \<localleader\>s \<Plug\>SlimeRegionSend #send highlighted region
+- \<localleader\>c \<Plug\>SlimeSendCell #send cell
+- \<localleader\>w viw\<Plug\>SlimeRegionSend #send word
+- \<localleader\>a ggVG\<Plug\>SlimeRegionSend #send whole file
+- \<localleader\>t :call OpenTerminal()\<CR\>
+- \<localleader\>q :call CloseTerminal()\<CR\>
+- \<localleader\>h :call PrintHead()\<CR\>
+- \<localleader\>C :SlimeSend0 "\x03"\<CR\>
+- \<localleader\>f :call FindFunction()\<CR\>\<Plug\>SlimeRegionSend\<CR\>
 
 
