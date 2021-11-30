@@ -1,11 +1,18 @@
 # Conda cheat sheet
 
+All of the following commands can be run with `conda` but for speed it is preferable to use `mamba`.
+
+**Installation**
+1. [Install conda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html)
+2. Intall mamba: `conda install mamba`
+
 **Main commands**
 - `conda create -p [environment_name]` - creates new environment
 - `conda env create -f [file.yaml] -p [environment_name]` - creates env from file specifies path
 - `conda activate [environment_name]` - activates the environment
 - `conda install python=3.7` - installs software to the env
 - `conda env update -f [file.yaml]` - updates current env based on file
+- `conda env remove -n [environment_name] [package_to_remove]` - remove a package
 - `conda deactivate` - deactivates and closes env
 - `conda info --envs` - shows info from environments
 - `conda env export -p [env_name]` - exports all. NOT RECOMMENDED
