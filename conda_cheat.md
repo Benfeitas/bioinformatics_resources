@@ -5,6 +5,7 @@ All of the following commands can be run with `conda` but for speed it is prefer
 **Installation**
 1. [Install conda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html)
 2. Install mamba: `conda install mamba`
+3. Use `mamba ...` commands instead of `conda ...` commands. E.g. `mamba create -f [my_environment.yaml] -n some_environement_name`
 
 **Main commands**
 - `conda create -p [environment_name]` - creates new environment
